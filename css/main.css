@@ -1,0 +1,57 @@
+body {
+    background: #121212;
+}
+
+.button-qatar {
+    background-color: #56042C;
+    border-color: #56042C;
+}
+
+.button-qatar:hover {
+    background-color: #860041;
+    border-color: #56042C;
+}
+
+.button-qatar:active {
+    background-color: #860041;
+    border-color: #56042C;
+}
+
+.button-qatar:focus {
+    color: #fff;
+    background-color: #7d023e;
+    border-color: #874364;
+    box-shadow: 0 0 0 0.25rem rgb(184 102 142 / 100%);
+}
+
+.input-dark {
+    background-color: #121212;
+    border-color: #56042C;
+    color: #fff;
+}
+
+.input-dark:focus {
+    background-color: #121212;
+    border-color: #874364;
+    box-shadow: 0 0 0 0.25rem rgb(184 102 142 / 25%);
+    color: #fff;
+}
+
+.text-home {
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.text-home-sub {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.gradient {
+    background: rgb(86, 4, 44);
+    background: linear-gradient(180deg, rgba(86, 4, 44, 1) 0%, rgba(136, 39, 86, 1) 49%, rgba(187, 82, 134, 1) 100%);
+    color: black;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
